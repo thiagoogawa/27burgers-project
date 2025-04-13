@@ -417,6 +417,10 @@ img {
 
 /* Responsividade */
 @media (max-width: 768px) {
+  .container {
+    padding: 0 0.35rem;
+  }
+  
   .main-menu-items, .info-left {
     display: none;
   }
